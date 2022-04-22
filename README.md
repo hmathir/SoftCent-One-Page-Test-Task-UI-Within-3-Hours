@@ -1,16 +1,7 @@
 # One Page Shop UI using Custom GridView - Test Task for SoftCent within 3 hours.
 
-A new Flutter project by HM ATHIR.
+Preview:
 
-## Getting Started
+<img width="343" alt="Screenshot 2022-04-22 at 4 20 22 PM" src="https://user-images.githubusercontent.com/45460114/164691601-f1ea9ac8-8e77-461c-8141-a1a8d3cd3b92.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="345" alt="Screenshot 2022-04-22 at 4 21 06 PM" src="https://user-images.githubusercontent.com/45460114/164691648-a4c76c1f-6617-444a-b4e6-f0d87582031b.png">
