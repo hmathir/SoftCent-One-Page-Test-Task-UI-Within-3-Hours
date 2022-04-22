@@ -1,6 +1,6 @@
-# test_task
+# One Page Shop UI using Custom GridView - Test Task for SoftCent within 3 hours.
 
-A new Flutter project.
+A new Flutter project by HM ATHIR.
 
 ## Getting Started
 
